@@ -21,15 +21,14 @@ Este proyecto representa una red típica de una pequeña oficina donde varios eq
 ---
 
 ## 🖧 Topología de red
+<img width="697" height="363" alt="topologia" src="https://github.com/user-attachments/assets/6067da90-5cae-403e-8f56-5c3546510da3" />
+
 
 La topología está compuesta por:
 
 * 1 Router
 * 1 Switch (capa 2)
 * 6 PCs
-
-  [](/topologia.png)
-
 
 ---
 
